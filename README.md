@@ -1,6 +1,5 @@
 # Gameplay Detect
 
-```markdown
 ## Image Prediction Web App
 
 Esta es una aplicación web simple para predecir el contenido de imágenes utilizando un modelo de aprendizaje automático previamente entrenado.
@@ -8,6 +7,7 @@ Esta es una aplicación web simple para predecir el contenido de imágenes utili
 ### Instalación
 
 1. Clona este repositorio en tu máquina local:
+
 ```
 
 git clone https://github.com/tu_usuario/image-prediction-web-app.git
@@ -77,6 +77,3 @@ http://127.0.0.1:5000/
 ```
 
 4. Selecciona una imagen y haz clic en el botón "Predict" para ver la predicción del modelo.
-```
-
-Este archivo README proporciona instrucciones claras sobre cómo instalar y utilizar el proyecto, así como información sobre cómo contribuir y la licencia del proyecto. Asegúrate de personalizar las URLs, los comandos y la información según sea necesario para que se ajuste a tu proyecto específico.

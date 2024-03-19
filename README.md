@@ -1,4 +1,4 @@
-# GAMEPLAYDETECT
+# Gameplay Detect
 
 ```markdown
 ## Image Prediction Web App
@@ -77,14 +77,6 @@ http://127.0.0.1:5000/
 ```
 
 4. Selecciona una imagen y haz clic en el botón "Predict" para ver la predicción del modelo.
-
-## Contribuciones
-
-Si deseas contribuir a este proyecto, ¡estaremos encantados de recibir tus aportaciones! Puedes abrir un problema para reportar errores o sugerir nuevas características, o enviar una solicitud de extracción con tus cambios propuestos.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 ```
 
 Este archivo README proporciona instrucciones claras sobre cómo instalar y utilizar el proyecto, así como información sobre cómo contribuir y la licencia del proyecto. Asegúrate de personalizar las URLs, los comandos y la información según sea necesario para que se ajuste a tu proyecto específico.
